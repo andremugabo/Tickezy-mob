@@ -14,8 +14,8 @@ struct MainTabView: View {
                 .tabItem {Label("Home", systemImage: "house")}
             BookmarksView()
                 .tabItem {Label("Bookmarks", systemImage: "bookmark")}
-            NotificationsView()
-                .tabItem {Label("Alerts", systemImage: "ball")}
+            TicketView()
+                .tabItem {Label("Tickets", systemImage: "ticket")}
             ProfileView()
                 .tabItem {Label("Profile", systemImage: "person.circle")}
         }

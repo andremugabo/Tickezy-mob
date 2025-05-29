@@ -1,0 +1,134 @@
+{
+    "events": [
+        {
+            "id": "1e1f1d1a-2b2c-3d3e-4f4a-5b5c6d7e8f9a",
+            "title": "Summer Music Festival 2025",
+            "description": "Annual outdoor music festival featuring top artists across multiple genres.",
+            "date": "2025-06-15T18:00:00Z",
+            "location": "Central Park, New York",
+            "imageName": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": false,
+            "category": "Music"
+        },
+        {
+            "id": "2a2b3c4d-5e6f-7a8b-9c10-a11b12c13d14",
+            "title": "Tech Innovators Conference",
+            "description": "Learn from industry leaders about the future of technology and innovation.",
+            "date": "2025-07-20T09:00:00Z",
+            "location": "Moscone Center, San Francisco",
+            "imageName": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": true,
+            "category": "Tech"
+        },
+        {
+            "id": "3b4c5d6e-7f8a-9b10-c11d-a12b13c14d15",
+            "title": "Broadway: Hamilton",
+            "description": "The acclaimed musical about American founding father Alexander Hamilton.",
+            "date": "2025-08-05T19:30:00Z",
+            "location": "Richard Rodgers Theatre, NYC",
+            "imageName": "https://images.unsplash.com/photo-1547153760-18fc86324498?ixlib=rb-4.0.3&auto=format&fit=crop&w=1374&q=80",
+            "isBookmarked": false,
+            "category": "Theater"
+        },
+        {
+            "id": "4c5d6e7f-8a9b-10c1-d12e-a13b14c15d16",
+            "title": "NBA Finals Game 7",
+            "description": "Championship-deciding basketball game featuring the league's top teams.",
+            "date": "2025-06-20T20:00:00Z",
+            "location": "Madison Square Garden, NYC",
+            "imageName": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1605&q=80",
+            "isBookmarked": true,
+            "category": "Sports"
+        },
+        {
+            "id": "5d6e7f8a-9b10-c11d-a12b-b13c14d15e16",
+            "title": "Food & Wine Festival",
+            "description": "Celebration of culinary arts with tastings from top chefs and wineries.",
+            "date": "2025-09-12T11:00:00Z",
+            "location": "Grant Park, Chicago",
+            "imageName": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": false,
+            "category": "Food"
+        },
+        {
+            "id": "6e7f8a9b-10c1-d12e-a13b-b14c15d16e17",
+            "title": "Marathon City Run",
+            "description": "Annual 26.2 mile race through the city with thousands of participants.",
+            "date": "2025-10-12T07:00:00Z",
+            "location": "Boston, Massachusetts",
+            "imageName": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": false,
+            "category": "Sports"
+        },
+        {
+            "id": "7f8a9b10-c11d-12e1-a13b-c14d15e16f17",
+            "title": "Comedy Night Special",
+            "description": "An evening of stand-up comedy featuring top comedians from Netflix specials.",
+            "date": "2025-05-30T20:00:00Z",
+            "location": "The Comedy Cellar, NYC",
+            "imageName": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": true,
+            "category": "Comedy"
+        },
+        {
+            "id": "8a9b10c1-d12e-13f1-a14b-c15d16e17f18",
+            "title": "Art Gallery Opening",
+            "description": "Exhibition of contemporary art from emerging international artists.",
+            "date": "2025-07-15T18:00:00Z",
+            "location": "Tate Modern, London",
+            "imageName": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": false,
+            "category": "Art"
+        },
+        {
+            "id": "9b10c1d2-e13f-14a1-b15c-d16e17f18g19",
+            "title": "Science Fiction Convention",
+            "description": "Celebration of sci-fi culture with authors, actors, and fan meetups.",
+            "date": "2025-08-22T10:00:00Z",
+            "location": "San Diego Convention Center",
+            "imageName": "https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&auto=format&fit=crop&w=1494&q=80",
+            "isBookmarked": false,
+            "category": "Entertainment"
+        },
+        {
+            "id": "10c1d2e3-f14a-15b1-c16d-e17f18g19h20",
+            "title": "Jazz in the Park",
+            "description": "Outdoor jazz performances under the stars with food trucks and drinks.",
+            "date": "2025-07-10T19:00:00Z",
+            "location": "Golden Gate Park, San Francisco",
+            "imageName": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": true,
+            "category": "Music"
+        },
+        {
+            "id": "11d2e3f4-a15b-16c1-d17e-f18g19h20i21",
+            "title": "Film Premiere: Midnight Horizon",
+            "description": "World premiere of the new blockbuster sci-fi movie with cast in attendance.",
+            "date": "2025-11-05T18:30:00Z",
+            "location": "TCL Chinese Theatre, Hollywood",
+            "imageName": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": false,
+            "category": "Film"
+        },
+        {
+            "id": "12e3f4a5-b16c-17d1-e18f-g19h20i21j22",
+            "title": "Wine Tasting Tour",
+            "description": "Guided tour through Napa Valley's finest vineyards with expert sommeliers.",
+            "date": "2025-09-25T10:00:00Z",
+            "location": "Napa Valley, California",
+            "imageName": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1471&q=80",
+            "isBookmarked": false,
+            "category": "Food"
+        },
+        {
+            "id": "13f4a5b6-c17d-18e1-f19g-h20i21j22k23",
+            "title": "Yoga Festival",
+            "description": "Weekend of yoga classes, meditation, and wellness workshops.",
+            "date": "2025-06-05T08:00:00Z",
+            "location": "Santa Monica Pier, Los Angeles",
+            "imageName": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+            "isBookmarked": false,
+            "category": "Wellness"
+        }
+    ]
+}

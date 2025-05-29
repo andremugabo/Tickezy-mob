@@ -1,0 +1,102 @@
+[
+    {
+        "id": "A1B2C3D4-E5F6-7G8H-9I10-J11K12L13M14",
+        "message": "Your ticket for Summer Music Festival has been confirmed!",
+        "date": "2025-06-01T09:30:00Z"
+    },
+    {
+        "id": "B2C3D4E5-F6G7-8H9I-10J11-K12L13M14N15",
+        "message": "Reminder: Tech Innovators Conference starts in 3 days",
+        "date": "2025-07-17T14:15:00Z"
+    },
+    {
+        "id": "C3D4E5F6-G7H8-9I10-11J12-K13L14M15N16",
+        "message": "New event matching your interests: Jazz in the Park",
+        "date": "2025-06-25T11:45:00Z"
+    },
+    {
+        "id": "D4E5F6G7-H8I9-10J11-12K13-L14M15N16O17",
+        "message": "Your friend Sarah is going to Broadway: Hamilton",
+        "date": "2025-07-22T18:20:00Z"
+    },
+    {
+        "id": "E5F6G7H8-I9J10-11K12-13L14-M15N16O17P18",
+        "message": "Special discount available for Food & Wine Festival",
+        "date": "2025-08-28T10:00:00Z"
+    },
+    {
+        "id": "F6G7H8I9-J10K11-12L13-14M15-N16O17P18Q19",
+        "message": "Event update: Marathon City Run route has changed",
+        "date": "2025-09-30T07:30:00Z"
+    },
+    {
+        "id": "G7H8I9J10-K11L12-13M14-15N16-O17P18Q19R20",
+        "message": "Your review for Comedy Night Special has been posted",
+        "date": "2025-06-02T21:10:00Z"
+    },
+    {
+        "id": "H8I9J10K11-L12M13-14N15-16O17-P18Q19R20S21",
+        "message": "Reminder: Art Gallery Opening is tomorrow at 6 PM",
+        "date": "2025-07-14T17:45:00Z"
+    },
+    {
+        "id": "I9J10K11L12-M13N14-15O16-17P18-Q19R20S21T22",
+        "message": "New message from Science Fiction Convention organizers",
+        "date": "2025-08-15T13:20:00Z"
+    },
+    {
+        "id": "J10K11L12M13-N14O15-16P17-18Q19-R20S21T22U23",
+        "message": "Your event photo at Jazz in the Park is ready to view",
+        "date": "2025-07-12T08:15:00Z"
+    },
+    {
+        "id": "K11L12M13N14-O15P16-17Q18-19R20-S21T22U23V24",
+        "message": "Film Premiere: Midnight Horizon tickets are selling fast",
+        "date": "2025-10-15T16:30:00Z"
+    },
+    {
+        "id": "L12M13N14O15-P16Q17-18R19-20S21-T22U23V24W25",
+        "message": "Wine Tasting Tour has been rescheduled to next weekend",
+        "date": "2025-09-18T12:00:00Z"
+    },
+    {
+        "id": "M13N14O15P16-Q17R18-19S20-21T22-U23V24W25X26",
+        "message": "Yoga Festival: Check out the new schedule updates",
+        "date": "2025-05-28T07:00:00Z"
+    },
+    {
+        "id": "N14O15P16Q17-R18S19-20T21-22U23-V24W25X26Y27",
+        "message": "Congratulations! You won backstage passes to Classical Symphony Night",
+        "date": "2025-10-30T19:05:00Z"
+    },
+    {
+        "id": "O15P16Q17R18-S19T20-21U22-23V24-W25X26Y27Z28",
+        "message": "Fashion Week early bird registration ends today",
+        "date": "2025-08-01T23:55:00Z"
+    },
+    {
+        "id": "P16Q17R18S19-T20U21-22V23-24W25-X26Y27Z28A29",
+        "message": "Astronomy Night has been canceled due to weather",
+        "date": "2025-08-10T20:30:00Z"
+    },
+    {
+        "id": "Q17R18S19T20-U21V22-23W24-25X26-Y27Z28A29B30",
+        "message": "Literary Book Fair: Meet your favorite authors tomorrow",
+        "date": "2025-10-17T09:15:00Z"
+    },
+    {
+        "id": "R18S19T20U21-V22W23-24X25-26Y27-Z28A29B30C31",
+        "message": "Cooking Masterclass: Don't forget your chef's knife",
+        "date": "2025-07-29T10:45:00Z"
+    },
+    {
+        "id": "S19T20U21V22-W23X24-25Y26-27Z28-A29B30C31D32",
+        "message": "Winter Ice Sculpture Festival tickets are now available",
+        "date": "2025-11-01T08:00:00Z"
+    },
+    {
+        "id": "T20U21V22W23-X24Y25-26Z27-28A29-B30C31D32E33",
+        "message": "Thank you for attending NBA Finals Game 7! Rate your experience",
+        "date": "2025-06-21T10:20:00Z"
+    }
+]

@@ -26,3 +26,6 @@ struct ButtonPrimary: View {
     }
 }
 
+#Preview {
+    ButtonPrimary(title: "Btn"){}
+}

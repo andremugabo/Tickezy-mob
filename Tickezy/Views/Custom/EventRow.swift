@@ -22,4 +22,4 @@ struct EventRow: View {
         }
     }
 }
-
+ 

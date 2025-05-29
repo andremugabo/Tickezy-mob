@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b8a37fc1-3d2f-4c88-939f-91e70bdf1241",
+    "username": "jdoe",
+    "displayName": "John Doe",
+    "password": "123456"
+  },
+  {
+    "id": "dcaf92e3-e9e3-4b15-b9a6-57206cf98b65",
+    "username": "asmith",
+    "displayName": "Alice Smith",
+    "password": "123456"
+  },
+  {
+    "id": "9ea1f1c0-6db4-4c9d-938a-89db6aefde95",
+    "username": "bwayne",
+    "displayName": "Bruce Wayne",
+    "password": "123456"
+  },
+  {
+    "id": "1bd11cd6-e9ab-4c71-85e9-1a285f9df91c",
+    "username": "ckent",
+    "displayName": "Clark Kent",
+    "password": "123456"
+  },
+  {
+    "id": "e0624b5f-0d00-4d26-b6ff-e5079056857e",
+    "username": "dparker",
+    "displayName": "Diana Parker",
+    "password": "123456"
+  },
+  {
+    "id": "a5e6d1f7-8f5e-4d8c-a707-1d50b1ac2dfc",
+    "username": "pparker",
+    "displayName": "Peter Parker",
+    "password": "123456"
+  },
+  {
+    "id": "f1ec8a57-6ad6-4e0f-915f-352abb084ef8",
+    "username": "tstark",
+    "displayName": "Tony Stark",
+    "password": "123456"
+  },
+  {
+    "id": "d2c319ec-7ac9-4d98-86f3-cf185214a9ee",
+    "username": "nsummers",
+    "displayName": "Nathan Summers",
+    "password": "123456"
+  },
+  {
+    "id": "7f6716d6-2a17-4f07-b6f5-97fc356fd87a",
+    "username": "srogers",
+    "displayName": "Steve Rogers",
+    "password": "123456"
+  },
+  {
+    "id": "fd96ff47-9f93-4bd4-83b9-4506be21b761",
+    "username": "bwilliams",
+    "displayName": "Barbara Williams",
+    "password": "123456"
+  }
+]

@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     @EnvironmentObject var auth: AuthService
+//    @State private var showScreen = 
     var body: some View {
         Group {
             if auth.isAuthenticated {
